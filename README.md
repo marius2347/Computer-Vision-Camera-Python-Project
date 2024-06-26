@@ -23,7 +23,7 @@
 <br>
 
 <h2> Link </h2>
-<b> Coursera:https://www.coursera.org/learn/introduction-computer-vision-watson-opencv</b>
+<b> Coursera: https://www.coursera.org/learn/introduction-computer-vision-watson-opencv</b>
 <br>
 
 <h2>Photo</h2>
