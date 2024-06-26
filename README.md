@@ -5,7 +5,7 @@
     <li>Image processing with Pillow</li>
     <li>Image processing with OpenCV</li>
     <li>Basic Image Manipulation with Pillow</li>
-    <li></li>
+    <li>Basic Image Manipulation OpenCV</li>
     <li></li>
     <li></li>
     <li></li>
