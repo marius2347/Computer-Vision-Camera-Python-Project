@@ -2,6 +2,15 @@
 <br>
 <h2>Features</h2>
 <ul>
+    <li>Image processing with Pillow</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
     <li></li>
 </ul>
 
