@@ -1,10 +1,10 @@
-<h1> SLAM2 Computer Vision  - Python Project</h1>
+<h1> Computer Vision - Python Project</h1>
 <br>
 <h2>Features</h2>
 <ul>
     <li>Image processing with Pillow</li>
     <li>Image processing with OpenCV</li>
-    <li></li>
+    <li>Basic Image Manipulation with Pillow</li>
     <li></li>
     <li></li>
     <li></li>
