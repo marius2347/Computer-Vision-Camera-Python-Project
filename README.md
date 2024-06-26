@@ -1,4 +1,4 @@
-<h1> Computer Vision - Python Project</h1>
+<h1> Computer Vision and Image Processing - Python Project</h1>
 <br>
 <h2>Features</h2>
 <ul>
@@ -22,9 +22,9 @@
 <b> Machine Learning: https://bit.ly/machine-learning-certification <b>
 <br>
 
-<!-- <h2> Link </h2>
-<b> Kaggle: https://www.kaggle.com/competitions/realistic-image-classification</b>
-<br> -->
+<h2> Link </h2>
+<b> Coursera:https://www.coursera.org/learn/introduction-computer-vision-watson-opencv</b>
+<br>
 
 <h2>Photo</h2>
 <img src="photo.png">
