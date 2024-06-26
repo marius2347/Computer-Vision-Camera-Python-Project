@@ -3,7 +3,7 @@
 <h2>Features</h2>
 <ul>
     <li>Image processing with Pillow</li>
-    <li></li>
+    <li>Image processing with OpenCV</li>
     <li></li>
     <li></li>
     <li></li>
