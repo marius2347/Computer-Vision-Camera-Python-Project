@@ -2,14 +2,11 @@
 <br>
 <h2>Features</h2>
 <ul>
-    <li>Image processing with Pillow</li>
-    <li>Image processing with OpenCV</li>
-    <li>Basic Image Manipulation with Pillow</li>
-    <li>Basic Image Manipulation OpenCV</li>
+    <li>Image processing with Pillow + OpenCV</li>
+    <li>Basic Image Manipulation with Pillow + OpenCV</li>
     <li>Histograms and Intensity Transformations</li>
-    <li>Geometric Transformations with Pillow</li>
-    <li></li>
-    <li></li>
+    <li>Geometric Transformations with Pillow + OpenCV</li>
+    <li>Spatial Filtering Pillow + OpenCV</li>
     <li></li>
     <li></li>
 </ul>
