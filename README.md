@@ -6,8 +6,8 @@
     <li>Image processing with OpenCV</li>
     <li>Basic Image Manipulation with Pillow</li>
     <li>Basic Image Manipulation OpenCV</li>
-    <li></li>
-    <li></li>
+    <li>Histograms and Intensity Transformations</li>
+    <li>Geometric Transformations with Pillow</li>
     <li></li>
     <li></li>
     <li></li>
