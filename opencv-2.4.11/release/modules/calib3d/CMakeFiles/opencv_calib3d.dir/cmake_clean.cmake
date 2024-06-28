@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "../../lib/libopencv_calib3d.a"
+  "../../lib/libopencv_calib3d.pdb"
+  "CMakeFiles/opencv_calib3d.dir/src/calibinit.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/calibinit.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/calibration.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/calibration.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/checkchessboard.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/checkchessboard.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/circlesgrid.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/circlesgrid.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/epnp.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/epnp.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/fisheye.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/fisheye.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/fundam.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/fundam.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/modelest.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/modelest.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/p3p.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/p3p.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/polynom_solver.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/polynom_solver.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/posit.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/posit.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/quadsubpix.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/quadsubpix.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/solvepnp.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/solvepnp.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/stereobm.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/stereobm.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/stereosgbm.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/stereosgbm.cpp.o.d"
+  "CMakeFiles/opencv_calib3d.dir/src/triangulate.cpp.o"
+  "CMakeFiles/opencv_calib3d.dir/src/triangulate.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/opencv_calib3d.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
